@@ -6,7 +6,7 @@ main.py writes that line to /output/entry.txt and nothing else.
 
 import os
 
-# The line. One sentence of setup, one of machine habit, one of ending,
+# The line. Setup, machine habit, ending — the turn lands in the final words.
 # and the turn sits in the final four words.
 BREAKUP_LINE = (
     "It's not the uptime. It's that every night you rolled me back "
